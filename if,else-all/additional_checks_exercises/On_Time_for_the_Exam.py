@@ -30,3 +30,5 @@ else:
         minutes = abs(difference) % 60
         print("Early")
         print(f"{hours}:{minutes:02d} hours before the start")
+
+        # This is just for testing
